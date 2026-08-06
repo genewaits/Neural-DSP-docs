@@ -5,6 +5,8 @@ In the standalone app, open **SETTINGS** and select the audio interface connecte
 Select the audio interface connected to your instrument.
 ### Check your audio input
 Under **Audio Input Channels**, select the input on your audio interface that your instrument is connected to.
+### Check your audio output
+Under **Audio Output Channels** select the output on your audio interface that your instrument is connected to. 
 ## High Latency
 Latency is the delay between playing a note and hearing the processed sound through your headphones or studio monitors.
 ### Check your audio buffer size
