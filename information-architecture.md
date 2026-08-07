@@ -24,7 +24,7 @@ Neural-DSP-docs/ (Root)
 ├── information-architecture.md    # This file (structural roadmap and rationale)
 ├── getting-started.md             # Task-oriented onboarding (Installation & First Launch)
 └── troubleshooting.md             # Symptom-cause-solution guide for common errors
-```bash
+
 
 
 
