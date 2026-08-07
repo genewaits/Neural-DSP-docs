@@ -41,10 +41,8 @@ Click the **SETTINGS** button in the utility bar at the bottom of the interface 
 | Parameter | Recommended Value | Why it matters |
 | :--- | :--- | :--- |
 | **Audio Device Type** | **CoreAudio** (macOS) / **ASIO** (Windows) | Ensures the lowest possible hardware latency. |
-| **Audio Device** | Select your connected audio interface. | Routes the guitar sound into the software. |
-| **Audio Input Channels** | Input channel where your guitar cable is plugged in. | Usually Input 1 or Input 2. |
+| **Audio Device** | Select your connected audio interface. | Routes the guitar sound into and out of the software. |
+| **Audio Input Channels** | Select the specific input where your guitar is plugged in. | Usually Input 1 or Input 2. Prevents empty signal lines. |
+| **Audio Output Channels** | Select the outputs connected to your headphones or monitors. | Usually Output 1 and Output 2 (Stereo). Prevents feedback loops through built-in laptop speakers. |
 | **Sample Rate** | **48000 Hz** | Standard high-quality audio processing rate. |
 | **Audio Buffer Size** | **128 samples** or lower | Reduces delay between plucking a string and hearing the sound. |
-
-Close the **Settings** window. Turn up your audio interface input gain, select a preset in the top manager, and you are ready to play!
-
