@@ -16,6 +16,17 @@ Key flaws identified:
 
 ## 2. The New Structural Framework 
 To improve usability, the documentation was restructured into distinct modules following the **Diátaxis framework** (Tutorials, How-To Guides, Reference, and Explanation).
+Here is how the repository content is mapped out:
+
+```text
+Neural-DSP-docs/ (Root)
+├── README.md                      # Project overview and Case Study introduction
+├── audit.md                       # Critical analysis of the original manual
+├── information-architecture.md    # This file (structural roadmap and rationale)
+├── getting-started.md             # Task-oriented onboarding (Installation & First Launch)
+└── troubleshooting.md              # Symptom-cause-solution guide for common errors
+```
+
 
 
 
