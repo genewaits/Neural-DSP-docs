@@ -14,10 +14,8 @@ Key flaws identified:
 
 ---
 
-## 2. The New Structural Framework (Diátaxis Approach)
+## 2. The New Structural Framework 
 To improve usability, the documentation was restructured into distinct modules following the **Diátaxis framework** (Tutorials, How-To Guides, Reference, and Explanation).
 
-Here is how the repository content is mapped out:
-docs/├── README.md                      # Project overview and Portfolio Case Study├── audit.md                       # Critical analysis of the original manual├── information-architecture.md    # This file (structural roadmap and rationale)├── getting-started.md             # Task-oriented onboarding (Installation & First Launch)├── troubleshooting.md              # Symptom-cause-solution guide for common errors└── user-guide/├── standalone-app.md          # Reference guide for Standalone-specific features├── plugin-parameters.md       # Reference guide for Amps, Cabinets, and Link Effects└── midi-mapping.md            # Advanced instructions for MIDI hardware setups
 
 
